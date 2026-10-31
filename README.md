@@ -56,7 +56,7 @@ npm install
 npm start
 ```
 
-Open **http://127.0.0.1:3000** in your browser.
+Open **http://127.0.0.1:3001** in your browser.
 
 ---
 
@@ -66,7 +66,7 @@ Copy `.env.example` to `.env` and set the values:
 
 | Variable              | Default                          | Description                              |
 |-----------------------|----------------------------------|------------------------------------------|
-| `PORT`                | `3000`                           | HTTP port                                |
+| `PORT`                | `3001`                           | HTTP port                                |
 | `HOST`                | `127.0.0.1`                      | Bind address (`0.0.0.0` for LAN)        |
 | `ADMIN_PASSWORD`      | *(required)*                     | Administrator login password             |
 | `SESSION_SECRET`      | *(required)*                     | Secret for signing session cookies       |
