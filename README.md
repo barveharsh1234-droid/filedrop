@@ -88,7 +88,7 @@ npm run dev      # auto-restart on change (Node 20+ --watch)
 The server prints:
 
 ```
-[FileDrop] Server running at http://127.0.0.1:3000
+[FileDrop] Server running at http://127.0.0.1:3001
 ```
 
 ---
